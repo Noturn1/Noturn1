@@ -1,1 +1,1 @@
-<img src = "readmeGit.gif" width = "325px"
+<img src = "readmeGit.gif" width = "325px">
