@@ -2,7 +2,7 @@
 
 ## Seja bem vindo e bem vinda à minha página! 👋
 
-- 📚 Acadêmico do curso de Ciência da Computação na Unioeste (4/8)
+- 📚 Acadêmico do curso de Ciência da Computação na Unioeste (5/8)
 - ❤️ Apaixonado pelo mundo da tecnologia
 
 ---
