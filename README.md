@@ -4,10 +4,9 @@
 
 - 📚 Acadêmico do curso de Ciência da Computação na Unioeste (6/8)
 - ❤️ Apaixonado pelo mundo da tecnologia
-
 ---
-- Atualmente aprendendo Back-End com Django e Djangorest e JavaScript
-- Programo nas linguagens Python, C, C++, JavaScript
+- Atualmente trabalhando com controle de fluxo de pipelines com Apache Airflow
+- Experiência em visualização de dados com Metabase
 ---
 - 📷 [Instagram](https://www.instagram.com/arthur.angelo/).
 ---
