@@ -11,4 +11,4 @@
 - 📷 [Instagram](https://www.instagram.com/arthur.angelo/).
 ---
 <div align = "left">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noturn1&show_icons=true&theme=algolia&count_private=false"/>
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noturn1&show_icons=true&theme=dark&count_private=false"/>
