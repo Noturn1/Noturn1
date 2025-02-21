@@ -5,7 +5,7 @@
 - 💻 Estudante de Ciência da Computação (6/8) na Unioeste
 - 📊 Focado em Data Science, Machine Learning e Back-End
 - 🚀 Desenvolvendo projetos como sistemas de recomendação e pipelines de dados
-- 📈 Interesse em algoritmos, otimização e automação de processos
+- 📈 Interesse em Data Science, Machine Learning e automação de processos
 ---
 - Atualmente trabalhando com controle de fluxo de pipelines com Apache Airflow
 - Experiência em visualização de dados com Metabase
