@@ -15,18 +15,18 @@
 
 ## Skills:
 
-#### Linguagens:
+### Linguagens:
 
-- Python, SQL, Shell Script, Markdown
+##### Python, SQL, Shell Script, Markdown
 
-#### Database
+### Database
 
-PostgreSQL
+##### PostgreSQL
 
 #### Tools e Technologies
 
-Unix, Git
+##### Unix, Git
 
-#### IDEs
+### IDEs
 
-Visual Studio Code, Zed
+##### Visual Studio Code, Zed
