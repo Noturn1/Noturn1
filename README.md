@@ -2,7 +2,7 @@
 
 ## Seja bem vindo e bem vindo(a) à minha página! 👋
 
-- 💻 Estudante de Ciência da Computação (6/8) na Unioeste
+- 💻 Estudante de Ciência da Computação (7/8) na Unioeste
 - 📊 Focado em Data Science, Machine Learning e Back-End
 - 🚀 Desenvolvendo projetos como sistemas de recomendação e pipelines de dados
 - 📈 Interesse em Data Science, Machine Learning e automação de processos
