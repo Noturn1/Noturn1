@@ -2,7 +2,7 @@
 
 ## Seja bem vindo e bem vindo(a) à minha página! 👋
 
-- 💻 Estudante de Ciência da Computação (7/8) na Unioeste
+- 💻 Estudante de Ciência da Computação (8/8) na Unioeste
 - 📊 Focado em Data Science, Machine Learning e Data Manipulation
 - 🚀 Desenvolvendo projetos como sistemas de recomendação e pipelines de dados
 - 📈 Interesse em técnologias opensource automação de processos
@@ -26,4 +26,4 @@
 
 #### Tools e Technologies
 
-##### Arch Linux, MacOs, Git, Nvim
+##### Arch Linux, MacOs, Git, Nvim, Tmux
