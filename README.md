@@ -2,11 +2,10 @@
 
 ## Seja bem vindo e bem vindo(a) à minha página! 👋
 
-- 💻 Estudante de Ciência da Computação (8/8) na Unioeste
+- 💻 Estudante de Ciência da Computação (9/11) na Unioeste
 - 📊 Focado em Data Science, Machine Learning e Data Manipulation
 - 🚀 Desenvolvendo projetos como sistemas de recomendação e pipelines de dados
-- 📈 Interesse em técnologias opensource automação de processos
-- Desenvolvendo guia para configuração do editor NeoVim com integração ao Tmux (Multiplexador de terminal)
+- 📈 Interesse em tecnologias opensource e automação de processos
 ---
 - Atualmente trabalhando com modelagem e análise de dados com Python (Pandas, Matplotlib, Numpy) 
 - Experiência em visualização de dados com Metabase e Apache Airflow, e PostgreSQL
