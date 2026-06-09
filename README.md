@@ -1,4 +1,4 @@
-<img src = "readmeGit.gif" width = "325px" align = "right">
+<img src = "readmeGit.gif" width = "385px" align = "right">
 
 ## Seja bem vindo e bem vindo(a) à minha página! 👋
 
@@ -11,7 +11,7 @@
 - Experiência em visualização de dados com Metabase e Apache Airflow, e PostgreSQL
 ---
 <div align = "left">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noturn1&show_icons=true&theme=dark&count_private=false"/>
+<img height = "235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noturn1&show_icons=true&theme=dark&count_private=false"/>
 
 ## Skills:
 
