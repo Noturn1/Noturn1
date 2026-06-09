@@ -21,7 +21,7 @@
 
 ### Linguagens que tenho alguma experiência: 
 
-#### C++, Java, Prolog, JS 
+#### C++, Java, Prolog, JS, VHDL, Assembly x86-64, Kotlin  
 
 ### Tools e Technologies
 
