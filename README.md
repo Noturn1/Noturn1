@@ -13,16 +13,16 @@
 <div align = "left">
 <img height = "235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noturn1&show_icons=true&theme=dark&count_private=false"/>
 
-## Skills:
+# Skills:
 
-### Linguagens principais:
+## Linguagens principais:
 
-##### Python, SQL, C
+#### Python, SQL, C
 
-#### Linguagens que tenho alguma experiência: 
+### Linguagens que tenho alguma experiência: 
 
-##### C++, Java, Prolog, JS 
+#### C++, Java, Prolog, JS 
 
-#### Tools e Technologies
+### Tools e Technologies
 
-##### Arch Linux, MacOs, Git, Nvim, Tmux
+#### Arch Linux, MacOs, Git, Nvim, Tmux
